@@ -1,4 +1,3 @@
 # Dementia
-
-A website that connects Doctors, Patients and Care-Takers
+A website to increase awareness about Dementia.
 https://dementia.meetali8.repl.co/
